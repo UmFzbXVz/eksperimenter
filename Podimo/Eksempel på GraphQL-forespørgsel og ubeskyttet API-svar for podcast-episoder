@@ -1,0 +1,60 @@
+API: https://graphql.pdm-gateway.com/graphql
+
+Payload: {
+  "operationName": "ChannelEpisodesQuery",
+  "variables": {
+    "podcastId": "b5be9b1f-e7ae-4990-bcc9-625623348c01", // "Det, Vi Taler Om"
+    "limit": 15,
+    "offset": 0,
+    "sorting": "PUBLISHED_DESCENDING"
+  },
+  "query": "query ChannelEpisodesQuery($podcastId: String!, $limit: Int!, $offset: Int!, $sorting: PodcastEpisodeSorting) {\n  episodes: podcastEpisodes(\n    podcastId: $podcastId\n    converted: true\n    published: true\n    limit: $limit\n    offset: $offset\n    sorting: $sorting\n  ) {\n    ...EpisodeBase\n    __typename\n  }\n}\n\nfragment EpisodeBase on PodcastEpisode {\n  accessLevel\n  artist\n  description\n  datetime\n  id\n  imageUrl\n  podcastName\n  title\n  thumbnailUrl\n  podcastId\n  ratingScore {\n    score\n    total\n    __typename\n  }\n  premiumBadge\n  evergreen\n  isMarkedAsPlayed\n  streamMedia {\n    duration\n    id\n    imageUrl\n    type\n    url\n    __typename\n  }\n  introDuration\n  type: source\n  userProgress {\n    listenTime\n    lastListenDatetime\n    __typename\n  }\n  __typename\n}"
+}
+
+API-svar: {
+  "data": {
+    "episodes": [
+      {
+        "accessLevel": "PREMIUM",
+        "artist": "Det, Vi Taler Om",
+        "description": "Pernille Vermund lagde Nye Borgerlige i graven, men Martin Henriksen trådte til med førstehjælp og nyt formandskab. Men det var Moderaterne, der blev det store samtaleemne på Christiansborg. \n\nVi talte også om Solruns pinlige opførsel på slottet, og Jonas har kigget på de største tabere og vindere i 2024. Var det OL-atleten der hev stangen ned med sin egen stang, eller folketingspolitikerne, der fik eftergivet 12 års skatterabat? Og tager P Diddy prisen som årets største taber? \n\nI studiet sidder Anne Kirstine Cramon, Jonas Kuld Rathje, Niels Pinborg og Jakob Steen Olsen, der også mindes dem, vi mistede i 2024. \n\nDin vært er Ditte Okman og programmet er produceret af Sarah Bech. \n\nFølg Det, vi taler om i appen og lyt til nye episoder hver fredag.\nFølg Det, vi taler om på Facebook og @ditteokman på Instagram.\nVært: Ditte Okman\nProducer: Sarah Bech \nPodimo-ansvarlig: Mette Søndergaard\nVideo: Sofus Chammon og Frederik Schultz",
+        "datetime": "2024-12-27T13:02:27.000Z",
+        "id": "02f962db-9c05-4c1a-87af-707cd7b4cde6",
+        "imageUrl": "https://cdn.podimo.com/images/af0c01cf-33ba-48ad-bc77-5394bec40fb9_400x400.png",
+        "podcastName": "Det, Vi Taler Om",
+        "title": "Den kontante time: Et år med slingrende klovnebus, Kate-gate, Solrun og elefantordener",
+        "thumbnailUrl": "https://cdn.podimo.com/images/af0c01cf-33ba-48ad-bc77-5394bec40fb9_120x120.png",
+        "podcastId": "b5be9b1f-e7ae-4990-bcc9-625623348c01",
+        "ratingScore": {
+          "score": 6,
+          "total": 7,
+          "__typename": "PodcastEpisodeRatingScore"
+        },
+        "premiumBadge": false,
+        "evergreen": false,
+        "isMarkedAsPlayed": false,
+        "streamMedia": {
+          "duration": 5262,
+          "id": "c23e477d-8c3b-425f-b074-9a82879a07b2",
+          "imageUrl": "https://cdn.podimo.com/images/c23e477d-8c3b-425f-b074-9a82879a07b2_1280x720.png",
+          "type": "VIDEO",
+          "url": "https://cdn.podimo.com/hls-media/c23e477d-8c3b-425f-b074-9a82879a07b2/main.m3u8", 
+          // URL til en M3U8-playlist for videoafspilning. 
+          // Adgangen er ikke beskyttet med tokens eller andre sikkerhedsforanstaltninger,
+          // hvilket betyder, at den potentielt kan tilgås af uautoriserede brugere.
+          "__typename": "StreamMedia"
+        },
+        "introDuration": null,
+        "type": null,
+        "userProgress": {
+          "listenTime": 0,
+          "lastListenDatetime": null,
+          "__typename": "PodcastEpisodeUserProgress"
+        },
+        "__typename": "PodcastEpisode"
+      },
+      // etc
+      }
+    ]
+  }
+}
