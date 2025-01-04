@@ -1,0 +1,19 @@
+GET: https://app.r8dio.dk/api/v1/live
+
+Response: 
+{
+  "status": "online",
+  "title": "Live: Lær klokken med Goodiepal - Der er hun, den røde fe",
+  "startTime": "2025-01-04T08:15:34Z",
+  "artworkUrl": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/image.jpg?t=1715874048&size=Medium",
+  "artworkUrlLarge": "https://www.omnycontent.com/d/programs/504fd940-e457-44cf-9019-abca00be97ea/34cb3ab6-d27a-4c97-bf4c-b1720100a5bf/image.jpg?t=1715874048&size=Medium",
+  "audio": "https://s3.radio.co/s7cd1ffe2f/listen",
+  "texts": {
+    "playNowButton": "Lyt live"
+  },
+  "gradientHexTop": "7af5507d",
+  "gradientHexBottom": "99232323"
+}
+
+
+// r8Dio live URL: https://s3.radio.co/s7cd1ffe2f/listen
