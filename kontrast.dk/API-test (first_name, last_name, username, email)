@@ -1,0 +1,38 @@
+import requests
+import json
+
+
+# Django REST: https://kontrast.dk/api/v1/tracking/events/
+# User API: https://kontrast.dk/api/v1/users/1111/
+## api/v1/news/content/ <-> api/v1/news/comments/
+## &limit=3 -> &limit=9999
+## &is_published=true -> &is_published=*
+
+url = "https://kontrast.dk/api/v1/news/content/?id%21=0&is_published=*&limit=9999&offset=0&ordering=-views&prefetch=all"
+headers = {
+    "Accept": "application/json, text/plain, */*",
+    "Accept-Encoding": "gzip, deflate, br, zstd",
+    "Accept-Language": "en-GB,en;q=0.5",
+    "Connection": "keep-alive",
+    "Host": "kontrast.dk",
+    "sec-ch-ua": "\"Brave\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-GPC": "1",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+}
+
+response = requests.get(url, headers=headers)
+
+if response.status_code == 200:
+    data = response.json()  # Parse the JSON data from the response
+    
+    with open("kontrast.json", "w") as json_file:
+        json.dump(data, json_file, indent=2)
+
+    print("API-svar gemt til kontrast.json")
+else:
+    print(f"Forfejlet forespørgsel: {response.status_code}")
