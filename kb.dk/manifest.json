@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "KBDownloader",
-  "version": "0.1",
-  "description": "Tilføjer download-knap (og snart Chromecast) til DR-arkivets udsendelser på kb.dk",
+  "version": "0.2",
+  "description": "Tilføjer download-knap og Chromecast-knap til DR-arkivets udsendelser på kb.dk",
   "permissions": [
     "activeTab"
   ],
@@ -11,7 +11,7 @@
   ],
   "content_scripts": [
     {
-      "matches": ["https://www.kb.dk/*"],
+      "matches": ["https://www.kb.dk/find-materiale/dr-arkivet/post/*"],
       "js": ["content.js"]
     }
   ],
@@ -24,4 +24,3 @@
     "default_icon": "favicon.ico"
   }
 }
-
