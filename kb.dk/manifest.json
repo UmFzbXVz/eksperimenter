@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "KBDownloader",
-  "version": "0.1",
+  "version": "0.2",
   "description": "Tilføjer download-knap og Chromecast-knap til DR-arkivets udsendelser på kb.dk",
   "permissions": [
     "activeTab"
