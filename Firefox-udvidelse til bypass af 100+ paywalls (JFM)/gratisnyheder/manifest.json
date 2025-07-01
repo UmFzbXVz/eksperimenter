@@ -1,0 +1,73 @@
+{
+  "manifest_version": 2,
+  "name": "Gratis nyheder",
+  "version": "1.0",
+  "description": "Spring over hvor betalingsmuren er lavest",
+  "permissions": [
+    "activeTab",
+    "https://*.stiften.dk/*",
+    "https://*.erhvervplus.dk/*",
+    "https://*.dagbladet-holstebro-struer.dk/*",
+    "https://*.dbrs.dk/*",
+    "https://*.folkebladetlemvig.dk/*",
+    "https://*.lystrupliv.dk/*",
+    "https://*.risskovliv.dk/*",
+    "https://*.skanderborgliv.dk/*",
+    "https://*.frederiksbergliv.dk/*",
+    "https://*.amagerliv.dk/*",
+    "https://*.kobenhavnliv.dk/*",
+    "https://*.avisendanmark.dk/*",
+    "https://*.viborg-folkeblad.dk/*",
+    "https://*.vafo.dk/*",
+    "https://*.amtsavisen.dk/*",
+    "https://*.jv.dk/*",
+    "https://*.hsfo.dk/*",
+    "https://*.helsingordagblad.dk/*",
+    "https://*.faa.dk/*",
+    "https://*.fyens.dk/*",
+    "https://*.frdb.dk/*",
+    "https://*.ugeavisen.dk/*",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.stiften.dk/*",
+        "https://*.ugeavisen.dk/*",
+        "https://*.erhvervplus.dk/*",
+        "https://*.dagbladet-holstebro-struer.dk/*",
+        "https://*.dbrs.dk/*",
+        "https://*.folkebladetlemvig.dk/*",
+        "https://*.lystrupliv.dk/*",
+        "https://*.risskovliv.dk/*",
+        "https://*.skanderborgliv.dk/*",
+        "https://*.frederiksbergliv.dk/*",
+        "https://*.amagerliv.dk/*",
+        "https://*.kobenhavnliv.dk/*",
+        "https://*.avisendanmark.dk/*",
+        "https://*.viborg-folkeblad.dk/*",
+        "https://*.vafo.dk/*",
+        "https://*.amtsavisen.dk/*",
+        "https://*.jv.dk/*",
+        "https://*.hsfo.dk/*",
+        "https://*.helsingordagblad.dk/*",
+        "https://*.faa.dk/*",
+        "https://*.fyens.dk/*",
+        "https://*.frdb.dk/*"
+      ],
+      "js": ["content-script.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "browser_action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "48": "icons/icon-48.png"
+    }
+  },
+  "icons": {
+    "48": "icons/icon-48.png"
+  }
+}
+

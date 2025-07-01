@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 10px;
+  width: 350px;
+  text-align: left;
+}
+
+#result {
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+#result p {
+  margin: 5px 0;
+}
+
+#base-url, #article-url {
+  word-break: break-all;
+}
+
+.found {
+  background-color: #e6ffed;
+  color: #2e7d32;
+}
+
+.not-found {
+  background-color: #ffebee;
+  color: #c62828;
+}
+
+.error {
+  background-color: #fff3e0;
+  color: #ef6c00;
+}
+
+#article-content {
+  background-color: #f4f4f4;
+  padding: 8px;
+  white-space: pre-wrap;
+  max-height: 300px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
