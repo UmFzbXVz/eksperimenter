@@ -52,12 +52,18 @@
   }
 
   try {
-    // Find article med async-url:
+    // Find artikel med async-url
     const article = document.querySelector('article[data-load-async-url*="/jfm-load-article-content/"]');
     if (!article) {
-      console.log('Ingen artikel med data-load-async-url fundet');
-      return;
+      return; 
     }
+
+    // Tjek for "for abonnenter" i dokumentet
+    const hasSubscriberText = document.body.textContent.toLowerCase().includes('for abonnenter');
+    if (!hasSubscriberText) {
+      return; 
+    }
+
     const asyncUrl = article.getAttribute('data-load-async-url');
     const baseUrl = `${location.protocol}//${location.hostname}`;
     const fullUrl = `${baseUrl}${asyncUrl}`;
@@ -113,4 +119,3 @@
     console.error('Fejl i content script:', error);
   }
 })();
-
