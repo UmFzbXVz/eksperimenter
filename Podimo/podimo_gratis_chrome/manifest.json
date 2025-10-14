@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Gratis Podimo",
+  "version": "0.1",
+  "description": "Afspil ALT fra Podimo uden at være betalende medlem. Dette er selvfølgelig ulovligt.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://open.podimo.com/podcast/*"],
+      "js": ["shaka-player.compiled.js", "player.js", "content.js"],
+      "css": ["player.css"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["player.css", "shaka-player.compiled.js"],
+      "matches": ["https://open.podimo.com/*"]
+    }
+  ],
+  "icons": {
+    "128": "icon128.png"
+  }
+}
