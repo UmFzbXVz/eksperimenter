@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "JFM Player",
+  "version": "0.1",
+  "description": "Afspil alt på JFM Play helt gratis uden login. Dette er selvfølgelig ulovligt.",
+  "permissions": ["activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://jfmplay.dk/*", "https://*.jfmplay.dk/*"],
+      "js": ["shaka-player.compiled.js", "content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "host_permissions": ["https://jfmplay.dk/*", "https://*.jfmplay.dk/*", "https://play.lwcdn.com/*"],
+  "web_accessible_resources": [
+    {
+      "resources": ["shaka-player.compiled.js"],
+      "matches": ["https://jfmplay.dk/*", "https://*.jfmplay.dk/*"]
+    }
+  ],
+  "icons": {
+    "192": "icon192.png"
+  }
+}
