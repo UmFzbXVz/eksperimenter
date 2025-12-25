@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>De Sprøde Heste - DR P3 2004</title>
+    <link>https://www.dr.dk</link>
+    <description>Arkivoptagelser fra sommerprogrammet De Sprøde Heste på DR P3 i 2004 med Anders Lund Madsen, Anders Breinholt og Signe Lindkvist. Et hyggeligt roadshow inspireret af Morten Korch-idyl, der rejste rundt i Danmark syv uger fra juni 2004.</description>
+    <language>da</language>
+    <itunes:author>Anders Lund Madsen, Anders Breinholt &amp; Signe Lindkvist</itunes:author>
+    <itunes:subtitle>Sommerhygge fra P3's roadshow i 2004</itunes:subtitle>
+    <itunes:summary>De Sprøde Heste var et live sommerprogram på DR P3 i 2004, hvor værterne rejste Danmark rundt og skabte idyl i æteren.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>DR Arkiv (uofficiel)</itunes:name>
+      <itunes:email>vrinsk@dr.dk</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>true</itunes:explicit>
+    <itunes:category text="Comedy"/>
+    <itunes:image href="https://asset.dr.dk/drdk/drupal-images/other/2015/10/29/81h_24.jpg"/>
+    <pubDate>Mon, 21 Jun 2004 09:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2025 00:00:00 GMT</lastBuildDate>
+    <managingEditor>vrinsk@dr.dk</managingEditor>
+    <webMaster>vrinsk@dr.dk</webMaster>
+    <atom:link href="https://example.com/de-sproede-heste-2004.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Mandag, 21. juni 2004</title>
+      <link>https://example.com/audio/2004-06-21%20-%20Mandag,%2021.%20juni.mp3</link>
+      <description>Afsnit fra De Sprøde Heste på DR P3 - Mandag d. 21. juni 2004.</description>
+      <pubDate>Mon, 21 Jun 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-06-21</guid>
+      <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-21%20-%20Mandag%2C%2021.%20juni.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:00:18</itunes:duration> 
+    </item>
+
+    <item>
+      <title>Tirsdag, 22. juni 2004</title>
+      <link>https://example.com/audio/2004-06-22%20-%20Tirsdag,%2022.%20juni.mp3</link>
+      <description>Afsnit fra De Sprøde Heste på DR P3 - Tirsdag d. 22. juni 2004.</description>
+      <pubDate>Tue, 22 Jun 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-06-22</guid>
+      <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-22%20-%20Tirsdag%2C%2022.%20juni.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:46:40</itunes:duration>
+    </item>
+
+    <item>
+      <title>Onsdag, 23. juni 2004</title>
+      <link>https://example.com/audio/2004-06-23%20-%20Onsdag,%2023.%20juni.mp3</link>
+      <description>Afsnit fra De Sprøde Heste på DR P3 - Onsdag d. 23. juni 2004.</description>
+      <pubDate>Wed, 23 Jun 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-06-23</guid>
+      <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-23%20-%20Onsdag%2C%2023.%20juni.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:49</itunes:duration>
+    </item>
+
+    <item>
+      <title>Torsdag, 24. juni 2004</title>
+      <link>https://example.com/audio/2004-06-24%20-%20Torsdag,%2024.%20juni.mp3</link>
+      <description>Afsnit fra De Sprøde Heste på DR P3 - Torsdag d. 24. juni 2004.</description>
+      <pubDate>Thu, 24 Jun 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-06-24</guid>
+      <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-24%20-%20Torsdag%2C%2024.%20juni.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:11:35</itunes:duration>
+    </item>
+
+    <item>
+      <title>Fredag, 25. juni 2004</title>
+      <link>https://example.com/audio/2004-06-25%20-%20Fredag,%2025.%20juni.mp3</link>
+      <description>Afsnit fra De Sprøde Heste på DR P3 - Fredag d. 25. juni 2004.</description>
+      <pubDate>Fri, 25 Jun 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-06-25</guid>
+      <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-25%20-%20Fredag%2C%2025.%20juni.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>00:56:43</itunes:duration>
+    </item>
+
+    <item>
+      <title>Tirsdag, 29. juni 2004</title>
+      <link>https://example.com/audio/2004-06-29%20-%20Tirsdag,%2029.%20juni.mp3</link>
+      <description>Afsnit fra De Sprøde Heste på DR P3 - Tirsdag d. 29. juni 2004.</description>
+      <pubDate>Tue, 29 Jun 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-06-29</guid>
+      <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-29%20-%20Tirsdag%2C%2029.%20juni.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:04:25</itunes:duration>
+    </item>
+
+  </channel>
+</rss>
