@@ -3,14 +3,14 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>De spRrøde Heste</title>
-    <link>https://www.dr.dk</link>
+    <title>De spRrøde Heste på P3</title>
+    <link>https://www.dr.dk/vrinsk</link>
     <description>Velkommen til P3s sommerprogram De spRøde Heste
     
     Arkivoptagelser fra sommerprogrammet De Sprøde Heste på DR P3 i 2004 med Anders Lund Madsen, Anders Breinholt og Signe Lindkvist. Et hyggeligt roadshow inspireret af Morten Korch-idyl, der rejste rundt i Danmark syv uger fra juni 2004.</description>
     <language>da</language>
     <itunes:author>Anders Lund Madsen, Anders Breinholt &amp; Signe Lindkvist</itunes:author>
-    <itunes:subtitle>Velkommen til P3s sommerprogram De spRøde Heste</itunes:subtitle>
+    <itunes:subtitle>- man bliver sindssyg af svalepip. Værter: Anders Breinholt og Signe Lindkvist.</itunes:subtitle>
     <itunes:summary>Velkommen til P3s sommerprogram De spRøde Heste</itunes:summary>
     <itunes:owner>
       <itunes:name>DR Arkiv (uofficiel)</itunes:name>
@@ -60,7 +60,7 @@
     <item>
       <title>Onsdag, 23. juni 2004</title>
       <link>https://example.com/audio/2004-06-23%20-%20Onsdag,%2023.%20juni.mp3</link>
-      <description>I dag står den på fodboldsnak, opkald til pizzeria og Marco fra Supermarco, Lokalmester-quiz, og så ringer vi til Peter Lund Madsen som forklarer Roskildesyge. Til sidst taler vi med Jan Gintberg om båltaler og får lumre landsholdsomklædningsrumstanker fra Parken af Louise Wolff.</description>
+      <description>I dag står den på fodboldsnak, opkald til pizzeria og Marco fra Supermarco, Lokalmester-quiz, og så ringer vi til Peter Lund Madsen. Til sidst taler vi med Jan Gintberg om båltaler og får lumre landsholdsomklædningsrumstanker fra Parken af Louise Wolff.</description>
       <pubDate>Wed, 23 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-23</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-23%20-%20Onsdag%2C%2023.%20juni.mp3" length="0" type="audio/mpeg"/>
@@ -70,7 +70,7 @@
     <item>
       <title>Torsdag, 24. juni 2004</title>
       <link>https://example.com/audio/2004-06-24%20-%20Torsdag,%2024.%20juni.mp3</link>
-      <description>Anders Breinholt, Anders Lund Madsen og Signe Lindkvist præsenterer dagens afsnit af De spRøde Heste. Dieselmotorer, det spritnye indslag Ka' Det Grilles?, Lenes barbiesamling og Lokalmesterquizzen er alle storslåede emner i dagens afsnit. Glædelig 24. juni!</description>
+      <description>Anders Breinholt, Anders Lund Madsen og Signe Lindkvist præsenterer dagens afsnit af De spRøde Heste. Diesels, det spritnye indslag Ka' Det Grilles?, Lenes barbiesamling og Lokalmesterquizzen er alle storslåede emner i dagens afsnit. Glædelig 24. juni!</description>
       <pubDate>Thu, 24 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-24</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-24%20-%20Torsdag%2C%2024.%20juni.mp3" length="0" type="audio/mpeg"/>
@@ -102,11 +102,75 @@
       <link>https://example.com/audio/2004-06-29%20-%20Tirsdag,%2029.%20juni.mp3</link>
       <description><![CDATA[Dagens afsnit præsenteres af Anders Breinholt og Signe Lindkvist. Vi skal, blandt andet, tale med 14-årige Troels som har lavet en rimelig hardcore vikingehjemmeside (
 <a href="https://web.archive.org/web/20040725084442/http://www.viking.virkelighed.dk/">Total Vikinge Power</a>
-), og Lars Köchers muligvis fejlslagne grillforsøg. Til sidst hører vi fra Roskilde Festivals musikbooker Rikke Øxner.]]></description>
+), og Lars Köchers grillforsøg af en Mars-bar i indslaget Ka' Det Grilles?. Til sidst hører vi fra Roskilde Festivals musikbooker Rikke Øxner.]]></description>
       <pubDate>Tue, 29 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-29</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-29%20-%20Tirsdag%2C%2029.%20juni.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>01:04:25</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Onsdag, 30. juni 2004</title>
+      <link>https://example.com/audio/2004-06-29%20-%20Tirsdag,%2030.%20juni.mp3</link>
+      <description><![CDATA[I dag starter vi med fantastisk vejr midt på Roskilde torv. David Bowie har aflyst! Vi har besøg af verdensmesteren i grill. Maria er atter engang igennem til Lokalmesteren for at forsvare sin placering i Roskilde-ekspertviden. Grillmester Köchs griller en flødebølle og gemmer sig et hemmeligt sted. Camping-guide fra festivaldeltagere. ]]></description>
+      <pubDate>Wed, 30 Jun 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-06-30</guid>
+      <enclosure url="https://archive.org/download/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-30%20-%20Onsdag%2C%2030.%20juni.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:31</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Torsdag, 1. juli 2004</title>
+      <link>https://example.com/audio/2004-06-29%20-%20Tirsdag,%2030.%20juni.mp3</link>
+      <description><![CDATA[Grillmester Lars Köcher har fået til opgave at grille en feta. Er besiddelse af grillkul egentligt ulovlige hvis man har 0-50 gram? Köchs hælder grillmester-knowledge ud i æteren. Lokalmesterquizzen fortsætter sin evigt styrkende fremmarch. Peter Lund Madsen forklarer Roskildesyge. Poetryslammeren Frederik Bjerre digter desuden dine ører af led til Roskildes Spoken Word-festival.]]></description>
+      <pubDate>Thu, 01 Jul 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-07-01</guid>
+      <enclosure url="https://archive.org/download/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-07-01%20-%20Torsdag%2C%201.%20juli.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:06:55</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Fredag, 2. juli 2004</title>
+      <link>https://example.com/audio/2004-06-29%20-%20Tirsdag,%2030.%20juni.mp3</link>
+      <description><![CDATA[Viskelædersamleren Kelds viskelædersamling på 16.116 viskelædre kommer i studiet. Interview med Nephew. Roskildes Lokalmester, Robert, bliver endegyldigt kåret! Lars Köcher skulle have grillet majs, men... ka' det ryges?]]></description>
+      <pubDate>Fri, 02 Jul 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-07-02</guid>
+      <enclosure url="https://archive.org/download/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-07-02%20-%20Fredag%2C%202.%20juli.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:58</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Mandag, 5. juli 2004</title>
+      <link>https://example.com/audio/2004-06-29%20-%20Tirsdag,%2030.%20juni.mp3</link>
+      <description><![CDATA[I denne uge sender vi fra Bornholm, og i dag mere specifikt fra Rønne Torv. Gode gamle Rønne. Bornholms største by, grundlagt mellem år 1300 og 1400 og hjemsted for både Bornholms Hospital og Bornholms Tidende. Og en ukendt granit-portal. 
+      Karen Nielsen fra Svanekegade præsenterer sin fortorvshistorie om Hasle-klinker og uretfærdighed. Anders Lund Madsen taler desuden med den senere-berømte Porre. Peter Lund Madsen ringes op og udspørges om Bornholmsk syge (Myalgia epidemica). Vi får forklaringen på De spRøde Hestes navn.
+      Hjemmeværn, militær og dyrskuer. Brian er desuden første udfordrer til Lokalmester-titlen. 
+      De spRøde Hestes allerførste bornholmssendingsugens samler er Rømer. 
+      Rømer samler på kuglepenne. 
+      Rømer har et sted mellem 3-5000 kuglepenne. 
+      Rømer startede med at samle kuglepenne  i 1983. Den 17. maj. Klokken 14:33. ]]></description>
+      <pubDate>Mon, 05 Jul 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-07-05</guid>
+      <enclosure url="https://archive.org/download/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-07-05%20-%20Mandag%2C%205.%20juli.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:22</itunes:duration>
+    </item>
+    
+    <item>
+      <title>Tirsdag, 6. juli 2004</title>
+      <link>https://example.com/audio/2004-06-29%20-%20Tirsdag,%2030.%20juni.mp3</link>
+      <description><![CDATA[Anders Breinholt og Anders Lund Madsen tilbringer ugen på sommerøen Bornholm. Her sender de fra Rønne Torv indhyllet i friske briser og smuk solskin.
+      
+      Peter den kristne porre er endelig igennem på telefon! 
+      De sprøde heste ringer til Vejdirektoratet og får styr på gårsdagens fortorvsklagerske.
+      Skovfoged Ole Holm Pedersen er i studiet. 
+      Lokalmester-in-spe Brian ringer ind for at forsvare sin titel. Det gør han overraskende dårligt.
+      Miss Sild bliver hestemarineret.
+
+      Teknisk note: Starten af 09:00-10:00 mangler i kildemateriale]]></description>
+      <pubDate>Tue, 06 Jul 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-07-06</guid>
+      <enclosure url="https://archive.org/download/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-07-06%20-%20Tirsdag%2C%206.%20juli.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:03:03</itunes:duration>
     </item>
 
   </channel>
