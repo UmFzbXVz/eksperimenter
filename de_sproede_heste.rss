@@ -3,13 +3,15 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>De Sprøde Heste - DR P3 2004</title>
+    <title>De spRrøde Heste</title>
     <link>https://www.dr.dk</link>
-    <description>Arkivoptagelser fra sommerprogrammet De Sprøde Heste på DR P3 i 2004 med Anders Lund Madsen, Anders Breinholt og Signe Lindkvist. Et hyggeligt roadshow inspireret af Morten Korch-idyl, der rejste rundt i Danmark syv uger fra juni 2004.</description>
+    <description>Velkommen til P3s sommerprogram De spRøde Heste
+    
+    Arkivoptagelser fra sommerprogrammet De Sprøde Heste på DR P3 i 2004 med Anders Lund Madsen, Anders Breinholt og Signe Lindkvist. Et hyggeligt roadshow inspireret af Morten Korch-idyl, der rejste rundt i Danmark syv uger fra juni 2004.</description>
     <language>da</language>
     <itunes:author>Anders Lund Madsen, Anders Breinholt &amp; Signe Lindkvist</itunes:author>
-    <itunes:subtitle>Sommerhygge fra P3's roadshow i 2004</itunes:subtitle>
-    <itunes:summary>De Sprøde Heste var et live sommerprogram på DR P3 i 2004, hvor værterne rejste Danmark rundt og skabte idyl i æteren.</itunes:summary>
+    <itunes:subtitle>Velkommen til P3s sommerprogram De spRøde Heste</itunes:subtitle>
+    <itunes:summary>Velkommen til P3s sommerprogram De spRøde Heste</itunes:summary>
     <itunes:owner>
       <itunes:name>DR Arkiv (uofficiel)</itunes:name>
       <itunes:email>vrinsk@dr.dk</itunes:email>
@@ -26,7 +28,19 @@
     <item>
       <title>Mandag, 21. juni 2004</title>
       <link>https://example.com/audio/2004-06-21%20-%20Mandag,%2021.%20juni.mp3</link>
-      <description>Afsnit fra De Sprøde Heste på DR P3 - Mandag d. 21. juni 2004.</description>
+      <description><![CDATA[<p>Anders Breinholt og Signe Lindkvist er dine værter i denne uge, hvor P3 sender direkte fra Ørstedsparken i København.</p>
+
+<p><strong>spRøde links:</strong></p>
+
+<ul>
+  <li><a href="https://web.archive.org/web/20040624074656/http://www.jerk.dk/roskildesyge.htm">Forklaring på Roskildesyge af Jerk W. Langer</a></li>
+  <li><a href="https://web.archive.org/web/20040624074656/http://www.dr.dk/vrinsk/opskrifter/cocio.asp">COCIO MOUSSE af Paul Cunningham</a></li>
+  <li><a href="https://web.archive.org/web/20040624074656/http://www.dr.dk/vrinsk/media/lyd/interview.ram">Tony Scott interviewer den svenske træner (2:36)</a></li>
+  <li><a href="https://web.archive.org/web/20040624074656/http://www.bt.dk/underholdning/artikel:aid=286242/">Se Bowie med slikkepind i øjet på BT</a></li>
+  <li><a href="https://web.archive.org/web/20040624074656/http://www.kofoedsskole.dk/">Besøg Kofoeds Skole (hjælper hjemløse)</a></li>
+  <li><a href="https://web.archive.org/web/20040624074656/http://www.giava.com/sputott/">Spyt på danskerne med Totti (klik på “clicca et sputa” for spyt)</a></li>
+</ul>]]>
+</description>
       <pubDate>Mon, 21 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-21</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-21%20-%20Mandag%2C%2021.%20juni.mp3" length="0" type="audio/mpeg"/>
@@ -36,7 +50,7 @@
     <item>
       <title>Tirsdag, 22. juni 2004</title>
       <link>https://example.com/audio/2004-06-22%20-%20Tirsdag,%2022.%20juni.mp3</link>
-      <description>Afsnit fra De Sprøde Heste på DR P3 - Tirsdag d. 22. juni 2004.</description>
+      <description>Er der aftalt spil i landskampene mellem Sverige, Danmark og Italien? Vi spiller Lokalmester, snakker med Paul Cunningham om michelinstjerner og Cocio-mousse, og slutter af med en svensk afstemning om hvorvidt dansk kultur er bedre end svensk - og det er den. Næsten.</description>
       <pubDate>Tue, 22 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-22</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-22%20-%20Tirsdag%2C%2022.%20juni.mp3" length="0" type="audio/mpeg"/>
@@ -46,7 +60,7 @@
     <item>
       <title>Onsdag, 23. juni 2004</title>
       <link>https://example.com/audio/2004-06-23%20-%20Onsdag,%2023.%20juni.mp3</link>
-      <description>Afsnit fra De Sprøde Heste på DR P3 - Onsdag d. 23. juni 2004.</description>
+      <description>I dag står den på fodboldsnak, opkald til pizzeria og Marco fra Supermarco, Lokalmester-quiz, og så ringer vi til Peter Lund Madsen som forklarer Roskildesyge. Til sidst taler vi med Jan Gintberg om båltaler og får lumre landsholdsomklædningsrumstanker fra Parken af Louise Wolff.</description>
       <pubDate>Wed, 23 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-23</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-23%20-%20Onsdag%2C%2023.%20juni.mp3" length="0" type="audio/mpeg"/>
@@ -56,7 +70,7 @@
     <item>
       <title>Torsdag, 24. juni 2004</title>
       <link>https://example.com/audio/2004-06-24%20-%20Torsdag,%2024.%20juni.mp3</link>
-      <description>Afsnit fra De Sprøde Heste på DR P3 - Torsdag d. 24. juni 2004.</description>
+      <description>Anders Breinholt, Anders Lund Madsen og Signe Lindkvist præsenterer dagens afsnit af De spRøde Heste. Dieselmotorer, det spritnye indslag Ka' Det Grilles?, Lenes barbiesamling og Lokalmesterquizzen er alle storslåede emner i dagens afsnit. Glædelig 24. juni!</description>
       <pubDate>Thu, 24 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-24</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-24%20-%20Torsdag%2C%2024.%20juni.mp3" length="0" type="audio/mpeg"/>
@@ -66,17 +80,29 @@
     <item>
       <title>Fredag, 25. juni 2004</title>
       <link>https://example.com/audio/2004-06-25%20-%20Fredag,%2025.%20juni.mp3</link>
-      <description>Afsnit fra De Sprøde Heste på DR P3 - Fredag d. 25. juni 2004.</description>
+      <description>I dag med Signe Lindkvist og Kanonkongen. Dagens samler er en dame der samler på klokker, Köchs leger "ka' det grilles", Kanonkongen på turistsfart, finale i lokalmesteren og ikke mindst den uofficielle landskamp Danmark - Tjekkiet.</description>
       <pubDate>Fri, 25 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-25</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-25%20-%20Fredag%2C%2025.%20juni.mp3" length="0" type="audio/mpeg"/>
       <itunes:duration>00:56:43</itunes:duration>
     </item>
+    
+    <item>
+      <title>Mandag, 28. juni 2004</title>
+      <link>https://example.com/audio/2004-06-25%20-%20Fredag,%2025.%20juni.mp3</link>
+      <description>Signe Lindkvist og Anders Breinholt er dagens sprøde heste. Vi har fornemt telefonisk besøg af den legendariske Oberst Lars R. Møller. Köchs griller vandmeloner og æg. Vi spiller selvfølgelig også Lokalmester.</description>
+      <pubDate>Mon, 28 Jun 2004 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">de-sproede-heste-2004-06-28</guid>
+      <enclosure url="https://archive.org/download/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-28%20-%20Mandag%2C%2028.%20juni.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>01:07:02</itunes:duration>
+    </item>
 
     <item>
       <title>Tirsdag, 29. juni 2004</title>
       <link>https://example.com/audio/2004-06-29%20-%20Tirsdag,%2029.%20juni.mp3</link>
-      <description>Afsnit fra De Sprøde Heste på DR P3 - Tirsdag d. 29. juni 2004.</description>
+      <description><![CDATA[Dagens afsnit præsenteres af Anders Breinholt og Signe Lindkvist. Vi skal, blandt andet, tale med 14-årige Troels som har lavet en rimelig hardcore vikingehjemmeside (
+<a href="https://web.archive.org/web/20040725084442/http://www.viking.virkelighed.dk/">Total Vikinge Power</a>
+), og Lars Köchers muligvis fejlslagne grillforsøg. Til sidst hører vi fra Roskilde Festivals musikbooker Rikke Øxner.]]></description>
       <pubDate>Tue, 29 Jun 2004 12:00:00 GMT</pubDate>
       <guid isPermaLink="false">de-sproede-heste-2004-06-29</guid>
       <enclosure url="https://ia601708.us.archive.org/22/items/de_sprode_heste/De%20spR%C3%B8de%20Heste/2004-06-29%20-%20Tirsdag%2C%2029.%20juni.mp3" length="0" type="audio/mpeg"/>
